@@ -1,3 +1,5 @@
+/ system "cd Desktop/adventofcode/2021"
+
 // part 1
 
 data:{ update depth:0i, horizontalpos:0i from ([] direction:x[0]; distance:"I"$x[1]) } flip " " vs' read0 `:input_day2.txt;

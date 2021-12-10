@@ -1,3 +1,5 @@
+/ system "cd Desktop/adventofcode/2021"
+
 data:flip "I"$string each read0 `:input_day3.txt;
 
 data:flip (`$string 1 + til count data)!data;

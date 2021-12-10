@@ -1,3 +1,5 @@
+/ system "cd Desktop/adventofcode/2021"
+
 // part 1
 
 count { 1_x where x > 0 } deltas "I"$read0 `:input_day1.txt // answer
